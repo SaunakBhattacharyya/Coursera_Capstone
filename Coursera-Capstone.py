@@ -1,28 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# #this notebook will be mainly used for the capstone project.
-
-# In[1]:
-
-
+Notebook used for Capstone Project
+In [1]:
+#Importing pandas and numpy
 import pandas as pd
-
-
-# In[2]:
-
-
-import Numpy as np
-
-
-# In[3]:
-
-
-print ("Hello Capstone Project Course!")
-
-
-# In[ ]:
-
-
-
-
+import numpy as np
+In [2]:
+print('Hello Capstone Project Course!')
+Hello Capstone Project Course
