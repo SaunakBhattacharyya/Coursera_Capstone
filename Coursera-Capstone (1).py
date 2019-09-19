@@ -19,4 +19,4 @@ import Numpy as np
 
 
 print ("Hello Capstone Project Course!")
-
+Hello Capstone Project Course!
